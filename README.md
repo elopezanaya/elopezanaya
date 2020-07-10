@@ -19,6 +19,8 @@ My name is Edgar, senior software engineer in California , just recently(2020) I
 se habla espanol.
 
 🔭 I’m currently working on : brushing my code skills
+
 📫 How to reach me: edgar@elopezanaya.com
+
 💬 Ask me about : Real mexican food.
 

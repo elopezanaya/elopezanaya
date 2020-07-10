@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Edgar, senior software engineer in California , just recently(2020) I earned my MBA by EGADE Business School (Tec de Monterrey), interested in innovation, startups . new technologies and of course tacos.
+
+se habla espanol.
+
+🔭 I’m currently working on : brushing my code skills
+📫 How to reach me: edgar@elopezanaya.com
+💬 Ask me about : Real mexican food.
+

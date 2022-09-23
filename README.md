@@ -14,9 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Edgar, senior software engineer in California , just recently(2020) I earned my MBA by EGADE Business School (Tec de Monterrey), interested in innovation, startups . new technologies and of course tacos.
+My name is Edgar, software engineer based in California , interested in innovation, startups . new technologies and of course tacos.
 
 se habla espanol.
+
+vamos borregos!!!
 
 
 📫 How to reach me: edgar@elopezanaya.com
